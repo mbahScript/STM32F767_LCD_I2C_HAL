@@ -63,19 +63,6 @@ A beginner-friendly LCD interface project that displays text on a **16x2 LCD** u
 
 ---
 
-## Project Structure
-
-Core/
-├── Inc/
-│   └── lcd_i2c.h
-├── Src/
-│   ├── main.c
-│   └── lcd_i2c.c
-
-
-
----
-
 ## Common Issues & Fixes
 
 ### Issue 1: LCD is blank
